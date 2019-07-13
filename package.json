@@ -8,9 +8,10 @@
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"mongodb": "^2.2.5",
-		"mongoose": "^4.5.7",
+		"dotenv": "^8.0.0",
 		"cors": "^2.8.1",
+		"mysql2": "^1.6.5",
+		"sequelize": "^5.10.0",
 		"body-parser": "^1.15.2"
 	},
 	"engines": {
@@ -18,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://hyperdev.com/#!/project/welcome-project"
+		"url": "https://github.com/kerriamber/boilerplate-project-urlshortener"
 	},
 	"keywords": [
 		"node",
